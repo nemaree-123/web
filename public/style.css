@@ -1,0 +1,24 @@
+body {
+  background-color: white; /* maroon */
+  color: #800000;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  background-color: #800000;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: white; /* a lighter maroon */
+  color: #800000;
+}
